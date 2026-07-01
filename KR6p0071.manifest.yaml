@@ -1,0 +1,135 @@
+canonical_identifier: bkk:krp/KR6p0071/v1
+canonical_location: https://kanripo.org/bkk/KR6p0071/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨土生無生論親聞記
+  identifiers:
+    alt_id:
+    - X61n1168
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X61/X61n1168.xml
+    old_id: X61n1168
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0071_000.yaml, hash: 'sha256:325e097ea6b1d44876897d251b66ffa578020b33a1d493e82bc634fc5dc02484'}
+  - {seq: 1, filename: KR6p0071_001.yaml, hash: 'sha256:a7fc87deb3efd7aa79eff895cdd64da65703db7cdcd1795c550de838118daa63'}
+  - {seq: 2, filename: KR6p0071_002.yaml, hash: 'sha256:945732390ceae10880dbf1556fa5af3f5053decef5cb5d0fa681aac187be473c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0071_000.markers.yaml, hash: 'sha256:fb515f3a303f8ee528ce6f629709dc0d37b3e7a817e35f7e34c4687fb8f8dd3c'}
+  - {seq: 1, role: markers, filename: assets/KR6p0071_001.markers.yaml, hash: 'sha256:d9f92d2e81d40df53e185321f9a7963d3432a4318f266d2ccb8eef0c4af555b2'}
+  - {seq: 2, role: markers, filename: assets/KR6p0071_002.markers.yaml, hash: 'sha256:ea55792262a0dc1e70d5cd006734b9d80ba7ddd1e5a8b458ff39b25191baa2c9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0071_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1168-A 淨土生無生論親聞記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0071_X_000-mulu-2
+    span:
+    - front
+    - 236
+    - 236
+  label: No. 1168-B 淨土生無生論序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0071_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13225
+  label: 淨土生無生論親聞記卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0071_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0071_X_001-mulu-2
+    span:
+    - body
+    - 12809
+    - 12809
+  label: 釋義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0071_X_001-mulu-3
+    span:
+    - body
+    - 12811
+    - 12811
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0071_X_001-mulu-4
+    span:
+    - body
+    - 12905
+    - 12905
+  label: 論記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0071_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 13288
+  label: 淨土生無生論親聞記卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0071_X_002-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 卷下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0071_X_002-mulu-2
+    span:
+    - body
+    - 12952
+    - 12952
+  label: No. 1168-C 䟦語
+  type: mulu
+  level: 1
+hash: sha256:7423ed482deb67141f41e50f7d4cc8b343a0d4d56adfd6e1f49e94a4da52f33d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
