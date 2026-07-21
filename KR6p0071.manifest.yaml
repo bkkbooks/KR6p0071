@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0071_000.yaml, hash: 'sha256:325e097ea6b1d44876897d251b66ffa578020b33a1d493e82bc634fc5dc02484'}
+  - {seq: 0, filename: KR6p0071_000.yaml, hash: 'sha256:f4c860c2d5432839ca2a5476982d8580c5c39193fa3bcfda60903a24505c3524'}
   - {seq: 1, filename: KR6p0071_001.yaml, hash: 'sha256:369ad36e97ab5ef35192b1ca710300065f36d9d28ed32eae6d21ce15c9f5a4e3'}
   - {seq: 2, filename: KR6p0071_002.yaml, hash: 'sha256:ea4b8d5a4b4a3789b1ea10530cbf65f8c8fd823d82a8cea0729ec7770ee5854d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0071_000.markers.yaml, hash: 'sha256:4ccc214d2a4b736604e9f0f02d140cd57d90b54a6b37e14ec7d8ec73ca79c476'}
+  - {seq: 0, role: markers, filename: assets/KR6p0071_000.markers.yaml, hash: 'sha256:8c1c94ca19739df8d9b0dc8af6f2a6f4a37fbf19b73abb71a5230e20a80e8291'}
   - {seq: 1, role: markers, filename: assets/KR6p0071_001.markers.yaml, hash: 'sha256:7a7fc26b36ec53927da57dbea89c4c8ab106351a0e079ff96d52a8e93acbaa83'}
   - {seq: 2, role: markers, filename: assets/KR6p0071_002.markers.yaml, hash: 'sha256:3afd16edf50655d91cc9fb818ae9b8997cdbd79b2e9d7d97b775829d2e084a2d'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0071_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1168-A 淨土生無生論親聞記序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0071_X_000-mulu-2
     span:
-    - front
+    - body
     - 236
     - 236
   label: No. 1168-B 淨土生無生論序
@@ -129,7 +129,7 @@ table_of_contents:
   label: No. 1168-C 䟦語
   type: mulu
   level: 1
-hash: sha256:64d5ca290c9595a4ba268d74e022ff3ed0fbc77390e30bd85a635bac26f43496
+hash: sha256:49727ebea6a03349c2316b73c9bea05c899e89f168a843ca59b1b072075bd4f0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
